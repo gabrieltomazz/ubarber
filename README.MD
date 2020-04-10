@@ -1,19 +1,19 @@
 Getting started 
 
 * Criando o projeto 
-    yarn init -l
+    * yarn init -l
 
 * Adicionando dependencias
-    node add express
-    node add sucrase nodemon -d
-    yarn add eslint
-    yarn eslint --init
-    yarn add sequelize
-    yarn add sequelize-cli
-    yarn add pg pg-hstore
-    yarn add bcryptjs
-    yarn add jsonwebtoken 
-    yarn add yup
+    * node add express
+    * node add sucrase nodemon -d
+    * yarn add eslint
+    * yarn eslint --init
+    * yarn add sequelize
+    * yarn add sequelize-cli
+    * yarn add pg pg-hstore
+    * yarn add bcryptjs
+    * yarn add jsonwebtoken 
+    * yarn add yup
 
 * docker
     * postgresSQL
@@ -22,10 +22,10 @@ Getting started
 
 * Sequelize
     * Migrations
-        yarn sequelize migration:create --name=create-users
+        * yarn sequelize migration:create --name=create-users
     * Run migrations
-        yarn sequelize db:migrate
-        yarn sequelize db:migrate:undo:all
+        * yarn sequelize db:migrate
+        * yarn sequelize db:migrate:undo:all
 
 
 

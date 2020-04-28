@@ -105,3 +105,13 @@ dist
 
 # database
 src/config/database.js
+
+# env
+.env
+.env.example
+
+# trash
+.DS_Store 
+
+# tmp
+tmp

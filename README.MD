@@ -24,6 +24,7 @@ Getting started
     * yarn add express-async-errors ( Throw Applications errors in Express )
     * yarn add youch ( Treat error message )
     * yarn add dotenv ( Build Global ENVORIMENT VARIABLES )
+    * yarn add cors ( Allow to others applications access API) 
     
 * docker
     * postgresSQL
